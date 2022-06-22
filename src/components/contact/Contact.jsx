@@ -27,13 +27,13 @@ const Contact = () => {
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>lewisleeds1900@gmail.com</h5>
-            <a href="mailto:lewisleeds1900@gmail.com" target="_blank">Send a message</a>
+            <a href="mailto:lewisleeds1900@gmail.com" target="_blank" rel="noreferrer">Send a message</a>
           </article>
           <article className='contact__option'>
             <ImWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+123456789</h5>
-            <a href="https://wa.me/447562015753" target="_blank">Text me</a>
+            <a href="https://wa.me/447562015753" target="_blank" rel="noreferrer">Text me</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
