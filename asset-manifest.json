@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lewisleeds1900.github.io/static/css/main.3d71eb60.css",
-    "main.js": "/lewisleeds1900.github.io/static/js/main.802c3f9b.js",
-    "static/media/faceTransparent.png": "/lewisleeds1900.github.io/static/media/faceTransparent.ba0ce1fc0017b03a10cd.png",
-    "static/media/Lewis-Leeds CV.pdf": "/lewisleeds1900.github.io/static/media/Lewis-Leeds CV.2e485d6caadd6adb6f35.pdf",
-    "static/media/face.jpg": "/lewisleeds1900.github.io/static/media/face.48eebad089379eeca0eb.jpg",
-    "index.html": "/lewisleeds1900.github.io/index.html",
-    "main.3d71eb60.css.map": "/lewisleeds1900.github.io/static/css/main.3d71eb60.css.map",
-    "main.802c3f9b.js.map": "/lewisleeds1900.github.io/static/js/main.802c3f9b.js.map"
+    "main.css": "/static/css/main.3d71eb60.css",
+    "main.js": "/static/js/main.bf1c91d9.js",
+    "static/media/faceTransparent.png": "/static/media/faceTransparent.ba0ce1fc0017b03a10cd.png",
+    "static/media/Lewis-Leeds CV.pdf": "/static/media/Lewis-Leeds CV.2e485d6caadd6adb6f35.pdf",
+    "static/media/face.jpg": "/static/media/face.48eebad089379eeca0eb.jpg",
+    "index.html": "/index.html",
+    "main.3d71eb60.css.map": "/static/css/main.3d71eb60.css.map",
+    "main.bf1c91d9.js.map": "/static/js/main.bf1c91d9.js.map"
   },
   "entrypoints": [
     "static/css/main.3d71eb60.css",
-    "static/js/main.802c3f9b.js"
+    "static/js/main.bf1c91d9.js"
   ]
 }
