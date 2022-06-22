@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import {FiAward} from 'react-icons/fi'
-import ME from '../../assets/face.jpg'
+import ME from '../../assets/hoodieFace.jpg'
 import {FaUniversity} from 'react-icons/fa'
 import {AiOutlineFundProjectionScreen} from 'react-icons/ai'
 
@@ -36,7 +36,11 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum architecto assumenda molestias praesentium minima quae blanditiis eaque autem! Optio libero, quod ad obcaecati nisi et culpa ea ab nihil vel?
+            Hi, my name is Lewis Leeds. I'm 26 years old from the United Kingdom. I completed my studies at the University of
+            East Anglia in 2022, achieving a grade of 2:1. In my free time I enjoy exercising, listening to music,
+            playing video games and playing on my guitar. I am, and always have been, fascinated by technology ever since I
+            was given my first handheld console when I was a child, and progressed in my understanding of technology from that
+            point onward. 
           </p>
 
           <a href="#contact" className='btn btn-primary'>Contact Me</a>
