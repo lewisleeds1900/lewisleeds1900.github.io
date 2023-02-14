@@ -22,7 +22,7 @@ const About = () => {
             <article className='about__card'>
               <FiAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Years Industry</small>
+              <small>3+ Years Industry</small>
             </article>
             <article className='about__card'>
               <FaUniversity className='about__icon'/>
@@ -32,12 +32,12 @@ const About = () => {
             <article className='about__card'>
               <AiOutlineFundProjectionScreen className='about__icon'/>
               <h5>Projects</h5>
-              <small>10+ Completed</small>
+              <small>20+ Completed</small>
             </article>
           </div>
           <p>
             Hi, my name is Lewis Leeds. I'm 26 years old from the United Kingdom. I completed my studies at the University of
-            East Anglia in 2022, achieving a grade of 2:1. In my free time I enjoy exercising, listening to music,
+            East Anglia in 2022, achieving a grade of 2:2. In my free time I enjoy exercising, listening to music,
             playing video games and playing on my guitar. I am, and always have been, fascinated by technology ever since I
             was given my first handheld console when I was a child, and progressed in my understanding of technology from that
             point onward. 

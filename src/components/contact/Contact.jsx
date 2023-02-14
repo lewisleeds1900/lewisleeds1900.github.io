@@ -32,7 +32,7 @@ const Contact = () => {
           <article className='contact__option'>
             <ImWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>+123456789</h5>
+            <h5>+44 75620 15753</h5>
             <a href="https://wa.me/447562015753" target="_blank" rel="noreferrer">Text me</a>
           </article>
         </div>
