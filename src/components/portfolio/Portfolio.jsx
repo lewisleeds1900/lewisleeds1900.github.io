@@ -50,12 +50,6 @@ const Portfolio = () => {
               <a href="https://www.warhammer-community.com" className='btn' target='_blank' rel="noreferrer">View Here</a>
             </div>
         </article>
-        <article className='portfolio__item'>
-            <h3>Visit Norwich</h3>
-            <div className="portfolio__item-cta">
-              <a href="https://www.visitnorwich.co.uk" className='btn' target='_blank' rel="noreferrer">View Here</a>
-            </div>
-        </article>
       </div>
     </section>
   )
