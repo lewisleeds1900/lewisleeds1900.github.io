@@ -12,9 +12,6 @@ const Portfolio = () => {
     <section id='portfolio'>
       <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
-      <h4 style={{textAlign: 'center', paddingBottom: '50px', width: '33%', justifyContent: 'center', margin: 'auto'}}>
-        The following projects are those which I have either solely lead, or been a core member of the development team.
-      </h4>
       <div className="container portfolio__container">
         <article className='portfolio__item'>
 
@@ -33,6 +30,30 @@ const Portfolio = () => {
             <h3>Data Visualisation Calendar (In Progress)</h3>
             <div className="portfolio__item-cta">
               <a href="https://fantastic-parfait-79f448.netlify.app/#/" className='btn' target='_blank' rel="noreferrer">View Here</a>
+            </div>
+        </article>
+        <article className='portfolio__item'>
+            <h3>Citadel Colour</h3>
+            <div className="portfolio__item-cta">
+              <a href="https://citadelcolour.com" className='btn' target='_blank' rel="noreferrer">View Here</a>
+            </div>
+        </article>
+        <article className='portfolio__item'>
+            <h3>Gravity</h3>
+            <div className="portfolio__item-cta">
+              <a href="https://gravity-global.com" className='btn' target='_blank' rel="noreferrer">View Here</a>
+            </div>
+        </article>
+        <article className='portfolio__item'>
+            <h3>Warhammer Community</h3>
+            <div className="portfolio__item-cta">
+              <a href="https://www.warhammer-community.com" className='btn' target='_blank' rel="noreferrer">View Here</a>
+            </div>
+        </article>
+        <article className='portfolio__item'>
+            <h3>Visit Norwich</h3>
+            <div className="portfolio__item-cta">
+              <a href="https://www.visitnorwich.co.uk" className='btn' target='_blank' rel="noreferrer">View Here</a>
             </div>
         </article>
       </div>
