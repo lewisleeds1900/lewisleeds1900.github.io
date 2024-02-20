@@ -21,15 +21,21 @@ const Portfolio = () => {
             </div>
         </article>
         <article className='portfolio__item'>
+          <h3>Complete Financial Training</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://www.completefinancialtraining.co.uk" className='btn' target='_blank' rel="noreferrer">View Here</a>
+          </div>
+        </article>
+        <article className='portfolio__item'>
             <h3>Warhammer Underworlds</h3>
             <div className="portfolio__item-cta">
               <a href="https://warhammerunderworlds.com" className='btn' target='_blank' rel="noreferrer">View Here</a>
             </div>
         </article>
         <article className='portfolio__item'>
-            <h3>Data Visualisation Calendar (In Progress)</h3>
+            <h3>12 Stats of Christmas - React Data Visualisation</h3>
             <div className="portfolio__item-cta">
-              <a href="https://fantastic-parfait-79f448.netlify.app/#/" className='btn' target='_blank' rel="noreferrer">View Here</a>
+              <a href="https://12statsofchristmas.soak.co.uk" className='btn' target='_blank' rel="noreferrer">View Here</a>
             </div>
         </article>
         <article className='portfolio__item'>
